@@ -1,0 +1,13 @@
+1. Navigate to your project directory
+
+	cd C:\Users\hieng\Desktop\Ransomware\Ransomware
+
+2. Initialize the Go module
+
+	go mod init Ransomware
+
+3. Build the project
+
+	go build -o C:\Users\hieng\Desktop\Ransomware\Ransomware\Ransomware.exe
+
+
